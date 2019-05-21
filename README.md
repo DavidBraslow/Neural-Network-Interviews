@@ -13,7 +13,7 @@ Neural Network Interviews
 **Course**: DS   <br/>
 **Mod**:    4(?)    <br/>
 **Topic**:  Neural Networks <br/>
-**Amount of time**: 1 hour <br/>
+**Amount of time**: 1.25 hours <br/>
 **Author**: David Braslow
 
 
@@ -37,7 +37,7 @@ Neural Network Interviews
 
 Prerequisite knowledge:  The prework activity should be assigned before/while students work on the Learn.co material above. The in-person lesson should be scheduled for a date after students have worked through that material.
 
-Prework: Instruct class to do the following writing exercise and send it to the instructor at least two hours before class. Here is some text you can use (fill in bold fields): 
+Prework: Instruct class to do the following writing exercise and send it to the instructor at least two hours before class. You can send out the file "Neural Network Interview Questions Notecatcher.docx" along with the instructions. Here is some text you can use (fill in bold fields): 
 
     In class on **DATE**, we will do an simulation exercise where you will respond to technical interview questions about neural networks. This will be great practice for when you are really interviewing, and it will help you deepen your understanding of the material. In preparation for class, please write one-paragraph answers to the questions below:
     
@@ -47,7 +47,7 @@ Prework: Instruct class to do the following writing exercise and send it to the 
     4. What are the advantages of neural networks?
     5. What are the disadvantages of neural networks? 
 
-    Your answers do not need to be perfect - the class activity will involve refining our answers together as a class. Your audience for these paragraphs is an interviewer with technical data science knowledge.  I recommend that you work on them as you progress through the Learn.co notebooks as a way to solidify you understanding of the material. You can use what you've learned from Learn.co to answer these questions, as well as any other resources you find helpful online (and please share any good ones with the class!). Please send **INSTRUCTOR AND COACH** your answers by **DEADLINE**. If you start to worry that you might have trouble meeting this deadline, please do not hesitate to reach out to us.
+   Your audience for these paragraphs is an interviewer with technical data science knowledge. The class activity will involve refining our answers collaboratively, so please complete this assignment independently. I recommend that you work on them as you progress through the Learn.co notebooks as a way to solidify you understanding of the material. You can use what you've learned from Learn.co to answer these questions, as well as any other resources you find helpful online (and please share any good ones with the class!). Please send **INSTRUCTOR AND COACH** your answers by **DEADLINE**. This is not meant to be stressful: your answers don't need to perfect, and if you start to worry that you might have trouble meeting this deadline, please do not hesitate to reach out to us. I have attached a Word doc where you can write your answers and which you may want to use during the class activity.
  
  I suggest sending this out before students start working on the Neural Network topics, as having a prompt that they know they'll have to answer will probably help them get more out of the material. This is because they will process the material with an eye toward using it in the future, rather than passively reading through it. You will likely need to send multiple reminders between when you send it out and the deadline.
 
@@ -71,19 +71,18 @@ See "Notes About Today's Activity" Slide:
 
 #### Materials
 
-- 3x5 Index Cards
 - Slide deck with student names (see Prework)
 
 ***
 
 ## Lesson Outline:
 
-The PowerPoint slides provide the structure for this lesson. Use these slides to structure the lesson, and follow the timings on Slide 5. Notes on each slide provide presentation tips.
+The PowerPoint slides provide the structure for this lesson. Use these slides to structure the lesson, and follow the timings on Slide 5. Notes on each slide provide additional presentation tips.
 
 Below is an overview of the lesson as structured in the slides
 
 **Step**: Problem <br/>
-**Time**: Slides 1-5: 7 min
+**Time**: Slides 1-6: 10 min
 
 _Goal/Scenario:_<br/>
 Convince your mock interviewer that you have a deep understanding of neural networks.
@@ -100,10 +99,10 @@ See Prework. Task 1 further serves to activate students' memories about what the
 **Step**: Learning Goals 1 and 2 and 3, Integration and Assessment:  <br/>
 **Time**: 
     Pair work: 8 min
-    Group work: 12 min
+    Group work: 15 min
     Jigsaw groups: 20 min
-    Interview practice: 8 min
-    Total: 48 min
+    Interview practice: 15 min
+    Total: 58 min
 
 Students work in pairs/trios to refine one answer to one question. They then join up with another pair/trio to refine answers further, becoming "expert" in that question. Next they jigsaw, mixing between groups so at least one "expert" is in each group. In this group they share their expertise by giving their answers and answering follow-up questions. Lastly, they return to their original partner/trio to practice doing the full interview.
 
@@ -115,6 +114,6 @@ Some suggestions for how to handle students who are stuck:
 Groups share out recommendations and supporting findings. Informal assessment throughout group work.
 
 **Step**: Reflection & Assessment:  <br/>
-**Time**: 5 min
+**Time**: 7 min
 
-Assessment and reflection using questions on Reflection slide. Consider using a pulse check, such as thumbs up/down, about students' self-assessments of their success.
+Assessment and reflection using questions on Reflection slide.
