@@ -1,5 +1,5 @@
 ---
-title: Neural Network Lesson Plan v0.1
+title: Neural Network Lesson Plan v0.2
 layout: post
 weight: 10
 hidden: false
@@ -78,43 +78,43 @@ See "Notes About Today's Activity" Slide:
 
 ## Lesson Outline:
 
-The PowerPoint slides provide the structure for this lesson. Use these slides to structure the lesson, and follow the timings on Slide 4. Notes on each slide provide presentation tips.
+The PowerPoint slides provide the structure for this lesson. Use these slides to structure the lesson, and follow the timings on Slide 5. Notes on each slide provide presentation tips.
 
 Below is an overview of the lesson as structured in the slides
 
 **Step**: Problem <br/>
-**Time**: Slides 1-5: 10 min
+**Time**: Slides 1-5: 7 min
 
 _Goal/Scenario:_<br/>
-Make recommendations to me, as your teacher, about how to improve class cohesion.
+Convince your mock interviewer that you have a deep understanding of neural networks.
 
 _Learning Goals in sequence:_<br/>
-1. Use NetworkX to visualize and analyze a network
-2. Describe networks using concepts such as connectivity, centrality and communities
-3. Use descriptive information about graphs to make real-world recommendations
-
+1. Explain what neural networks are, how they work, and their properties
+2. Practice responding to technical interview questions about neural networks
 
 **Step**: Activation <br/>
 **Time**: 0 min
 
-On "Do you all talk to each other?" slide, connect to their personal experience as a member of the class and the previous work they have done on graph theory. 
+See Prework. Task 1 further serves to activate students' memories about what they learned/wrote.
 
-**Step**: Learning Goals 1, 2 and 3, Integration and Assessment:  <br/>
+**Step**: Learning Goals 1 and 2 and 3, Integration and Assessment:  <br/>
 **Time**: 
-    Pair work: 35 min
-    Group work: 15 min
-    Presentations: 20 min
-    Total: 70 min
+    Pair work: 8 min
+    Group work: 12 min
+    Jigsaw groups: 20 min
+    Interview practice: 8 min
+    Total: 48 min
 
-Students work in pairs to complete tasks in Jupyter notebook related to the three goals and integrating the answers to generate recommendations. Pairs then join to form groups of 4 that discuss and prepare to share recommendations. During this time, teacher and coach should be circulating to informally assess student progress and offer guidance as needed.
-Some suggestions for how to help students get unstuck:
-- If they have difficulty with code, suggest that they look at the relevant notebook in Learn covering that material (links above)
-- If they have difficulty interpreting the questions, ask if they looked at the hints at the bottom of the notebook. If so, ask what they thought after reading them and help them navigate to a specific approach.
-- If they have difficulty creating a recommendation, suggest that they pick one metric from their analysis. Ask if there is anything that the teacher could do that would make that metric go up.
+Students work in pairs/trios to refine one answer to one question. They then join up with another pair/trio to refine answers further, becoming "expert" in that question. Next they jigsaw, mixing between groups so at least one "expert" is in each group. In this group they share their expertise by giving their answers and answering follow-up questions. Lastly, they return to their original partner/trio to practice doing the full interview.
 
-Groups share out recommendations and supporting findings. Informal assessment through group presentations and responses to questions.
+Some suggestions for how to handle students who are stuck:
+- During pair work, work with students whose submitted answers were weak to help deepen their understanding and/or strengthen their explanations
+- During group work, circulate and intervene if you hear weak/incorrect explanations
+- During jigsaws and interviews, give positive reinforcement to encourage struggling students to continue, such as by pointing out strengths in their explanations
 
-**Step**: Reflection:  <br/>
-**Time**: 10 min
+Groups share out recommendations and supporting findings. Informal assessment throughout group work.
 
-Group discussion using questions on Discussion slide.
+**Step**: Reflection & Assessment:  <br/>
+**Time**: 5 min
+
+Assessment and reflection using questions on Reflection slide. Consider using a pulse check, such as thumbs up/down, about students' self-assessments of their success.
